@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mem0ai": "^3.1.8",
+    "openai": "^7.10.0",
+    "python-dotenv": "^0.0.1-security"
+  }
+}
